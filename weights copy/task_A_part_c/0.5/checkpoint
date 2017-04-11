@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/onivron/trained_models/ass_3/weights/task_A_part_c/0.5/accu"
+all_model_checkpoint_paths: "/Users/onivron/trained_models/ass_3/weights/task_A_part_c/0.5/accu"
